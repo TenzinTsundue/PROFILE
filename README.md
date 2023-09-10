@@ -1,3 +1,18 @@
+## Title 
+>> Brief description
+>> Objective or Problem statement
+>> Data source
+>> Data cleaning and preprocessing steps
+>> Data analysis techniques used
+>> Visualizations
+>> Insights or conclusions drawn
+
+
+
+
+
+
+
 ### Main links
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
 - [Chrisalbon](https://chrisalbon.com/)
