@@ -1,11 +1,11 @@
-## Title 
+#### Title 
 >> Brief description
->> Objective or Problem statement
->> Data source
->> Data cleaning and preprocessing steps
->> Data analysis techniques used
->> Visualizations
->> Insights or conclusions drawn
+- Objective or Problem statement
+- Data source
+- Data cleaning and preprocessing steps
+- Data analysis techniques used
+- Visualizations
+- Insights or conclusions drawn
 
 
 
