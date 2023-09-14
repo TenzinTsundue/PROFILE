@@ -1,7 +1,7 @@
 Here is a list of some certifications I have acquired to build experience in data analysis:
 
 |S no	| Certificate	| Link	| month/Year |
-|-----|-------------|-------|------------|
+|:---:|:------------|:----:|---------:|
 |1	 |Automate the Boring Stuff with Python Programming|	[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/%20Automate%20the%20Boring%20Stuff%20with%20Python%20Programming.pdf)	|Dec 2019|
 |2	|Foundation of Data Science	|[Certificate] (https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Foundation%20of%20Data%20Science.pdf)	|May 2023|
 |3	|Get started with python	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Get%20started%20with%20python.pdf)	|June 2023|
