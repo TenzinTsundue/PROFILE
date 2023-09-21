@@ -18,3 +18,5 @@ Here is a list of some certifications I have acquired to build experience in dat
 |14	|Learning Excel Data Analysis	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Learning%20Excel%20Data%20Analysis.pdf)	|Dec 2021|
 |15	|Python Project for Data Science|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Python%20Project%20for%20Data%20Science.pdf)	|Feb 2022|
 |16	|Statistics Foundations The Basics	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Statistics%20Foundations%20The%20Basics.pdf)	|Nov 2021|
+|17	|Excel to Tableau	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Excel%20to%20Tableau.pdf)	|Sept 2023|
+
