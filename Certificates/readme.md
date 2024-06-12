@@ -20,5 +20,5 @@ Here is a list of some certifications I have acquired to build experience in dat
 |16	|Statistics Foundations The Basics	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Statistics%20Foundations%20The%20Basics.pdf)	|Nov 2021|
 |17	|Excel to Tableau	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Excel%20to%20Tableau.pdf)	|Sep 2023|
 |18	|Power Automate Quick Tips	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Power%20Automate%20Quick%20Tips.pdf)	|Mar 2024|
-|17	|Power Apps Building DataDriven Apps	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Power%20Apps%20Building%20DataDriven%20Apps.pdf)	|Jun 2024|
+|19	|Power Apps Building DataDriven Apps	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Power%20Apps%20Building%20DataDriven%20Apps.pdf)	|Jun 2024|
 
