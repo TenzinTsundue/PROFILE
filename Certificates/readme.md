@@ -22,4 +22,5 @@ Here is a list of some certifications I have acquired to build experience in dat
 |18	|Power Automate Quick Tips	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Power%20Automate%20Quick%20Tips.pdf)	|Mar 2024|
 |19	|Power Apps Building DataDriven Apps	|[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Power%20Apps%20Building%20DataDriven%20Apps.pdf)	|Jun 2024|
 |20	|Foundations of Geographic Information  Systems (GIS) |[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Foundations%20of%20Geographic%20Information%20Systems%20GIS.pdf)	|Jun 2024|
+|21	|Data Economic Modeling and Forecasting with Stata |[Certificate](https://github.com/TenzinTsundue/PROFILE/blob/master/Certificates/files/Data%20Economic%20Modeling%20and%20Forecasting%20with%20Stata.pdf) |Jul 2024|
 
